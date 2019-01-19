@@ -89,7 +89,7 @@ public interface List<E> {
      * @return true if there are no items currently stored in the list, false
      * otherwise.
      */
-    boolean isEmpty();
+   public boolean isEmpty();
 
     /**
      * Prints the contents of the list in a single line separating each element
